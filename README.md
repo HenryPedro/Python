@@ -1,1 +1,1 @@
-# Projetos Python desde básico ao avançado. 
+# Projetos Python: Básico ao avançado. 
